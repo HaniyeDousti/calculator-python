@@ -14,7 +14,7 @@ class Calculator:
 
         self.window = tk.Tk()
 
-        self.window.title("My Python Calculator")
+        self.window.title("My Python Calculator - Percentage")
         self.window.geometry("400x500")
 
         self.button_map = {
